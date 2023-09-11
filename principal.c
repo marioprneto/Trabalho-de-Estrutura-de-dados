@@ -53,6 +53,7 @@ int main(){
             situacao = "REPROVADO";
         }
 
+        printf("%s, %.2f, %s\n", aluno.Nome, media, situacao);
         fprintf(arquivoSaida, "%s, %.2f, %s\n", aluno.Nome, media, situacao);
     }
 
