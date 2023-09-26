@@ -1,0 +1,8 @@
+<head>
+	Texto de teste para exemplo
+	<p>Outro texto de teste para exemplo</p>
+	<h1>.</h1>
+<body>
+	Brasil!
+</body>
+</head>
